@@ -1,6 +1,17 @@
+/**
+ * @fileoverview WIP, just idea, final implementation would be with db
+ * 
+ * This file contains the main dashboard page component for the application.
+ * It includes a list of tasks and a toggleable recent activity section.
+ * 
+ * @module DashboardPage
+ */
+
 "use client";
 import React, { useState } from 'react';
 import Header from '../components/Header';
+
+
 
 const tasks = [
   { id: '#94834', title: 'Implement Authentication System for User Login' },
