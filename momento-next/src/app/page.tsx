@@ -24,13 +24,13 @@ export default function Home() {
       <section className="p-8 flex flex-col mt-4 text-left">
         <h3 className="text-4xl font-semibold mb-4">features</h3>
         <p className="m-2">
-          create and complete tasks at the board
+          create and complete tasks
         </p>
         <p className="m-2">
           tasks can be paid or free
         </p>
         <p className="m-2">
-          collaborate on discord community
+          collaborate on discord
         </p>
 
       </section>
@@ -40,7 +40,7 @@ export default function Home() {
           bounty board (from github and sponsored/custom bounties)
         </p>
         <p className="m-2">
-          algorithm for recommendation of tailored tasks for your profile
+          tailored tasks for your profile
         </p>
         <p className="m-2">
           sponsored jobs and bounties
@@ -49,7 +49,7 @@ export default function Home() {
           p2p academy and courses
         </p>
         <p className="m-2">
-          custom token from fast internal transactions
+          custom token for fast internal transactions
         </p>
       </section>
     </>
