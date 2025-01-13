@@ -49,7 +49,7 @@ export default function Home() {
           p2p academy and courses
         </p>
         <p className="m-2">
-          custom token for fast internal transactions
+          custom token
         </p>
       </section>
     </>
